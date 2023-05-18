@@ -1,0 +1,14 @@
+{
+  "hash": "5f17cd016300c8dcb2de5c8a7f87d4fc",
+  "result": {
+    "markdown": "---\ntitle: \"Mohammad Hoseini\"\nimage: photo.jpg\nabout: \n  template: trestles\n  image-shape: round\n  image-width: 23em\n  links:\n    - text: Meeting\n      href: https://calendly.com/hoseini\n    - text: Email\n      href: mailto:m.hoseini@teias.institute\n---\n\n\nI am an associate professor of economics affiliated to Institute for Management and Planning Studies and Tehran Institute for Advanced Studies.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

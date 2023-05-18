@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mohammad Hoseini"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: calendar-check
+        href: https://calendly.com/hoseini
+      - icon: envelope
+        href: mailto:mo.hoseini@imps.ac.ir
+      - icon: twitter
+        href: https://twitter.com/HoseyniM
+      - icon: google
+        href: https://scholar.google.com/citations?user=JZTBu7YAAAAJ&hl=en
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
