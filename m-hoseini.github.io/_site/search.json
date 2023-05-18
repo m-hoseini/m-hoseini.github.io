@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mohammad Hoseini",
+    "section": "",
+    "text": "I am an associate professor of economics affiliated to Institute for Management and Planning Studies and Tehran Institute for Advanced Studies.\nI obtained my PhD in Economics from Tilburg University, the Netherlands.\nDownload CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Effect of COVID-19 Lockdown and the Subsequent Re-opening on Consumption in Iran, with Abolmohsen Valizadeh, Review of Economics of the Household, 19, Pages 373–397, June 2021. download link\nProduction Efficiency and Self-enforcement in Value-Added Tax: Evidence from State-level Reform in India, with Oceane Briand, Journal of Development Economics, Volume 144, May 2020, 102462. download link\nValue-Added Tax, Input-Output Linkages, and Informality, Economica, Volume 87, Issue 347, July 2020, Pages 813-843. download link\nTrade Credit and Access to Finance of Retailers in Ethiopia, with Thorsten Beck and Burak Uras, Journal of African Economies, Volume 29, Issue 2, March 2020, Pages 146–172. download link\nFinance, Law, and Poverty: Evidence from India, with Meghana Ayyagari and Thorsten Beck, Journal of Corporate Finance, Volume 60, February 2020, 101515. Vox column summary, download link"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nMarriage and Employment Returns to Female Education\nCompulsory Military Service and Lifetime Earnings: A Structural Estimation, with Ehsan Sabouri\nInequality with Top Incomes in Iran with Zahra Shamlou and Djavad Salehi-Esfahani\nHow do shared experiences of economic shocks impact refugees and host communities? Evidence from Afghan refugees in Iran, with Mahsa Jahan-Dideh, World Bank Policy Research working paper, no. WPS 9915\nEmergency Loans and Consumption: Evidence from COVID-19 in Iran, with Thorsten Beck, Covid Economics, 45, 28 August 2020: 111-146. Vox column summary\nInformality and Access to Finance: Evidence from India, with Thorsten Beck\nMisreporting of VAT and Optimal Enforcement"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometrics (Spring 2023)\n\nIntroduction\nCausality\nRegression Basics\nMaximum Likelihood\nGeneralized Method of Moments\nDiscrete Choice Models\nPanel Data\nSelection Problem & Randomized Experiments\nRegression and Causality\nMatching\nInstrumental Variable\nDifference-in-difference\nRegression Discountinuity Design"
+  }
+]
