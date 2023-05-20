@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mohammad Hoseini"
+  google-analytics: "G-WZ5JLFRJ8L"
   navbar:
     left:
       - href: index.qmd
